@@ -1,0 +1,7 @@
+#!/bin/sh
+gcc complete.c -o complete
+gcc -O3 -pthread fast.c -o fast -lm
+gcc run.c -o run
+gcc run2.c -o run2
+gcc -O3 -pthread fasttest.c -o fasttest -lm
+gcc -O3 -pthread fast2.c -o fast2 -lm
