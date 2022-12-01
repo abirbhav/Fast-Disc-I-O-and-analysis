@@ -33,3 +33,7 @@ Execution command: ./fast2 <filename>
 
 # Final report
 See report.pdf
+  
+---
+A project by:\
+[Abirbhav Dutta](https://github.com/abirbhav) ┊ Yashika Dhawan
