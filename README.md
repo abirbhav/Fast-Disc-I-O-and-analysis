@@ -32,4 +32,4 @@ This program is the exact same as fast.c, except that it programmatically calcul
 Execution command: ./fast2 <filename>
 
 # Final report
-See OS Final Project Report.pdf
+See report.pdf
